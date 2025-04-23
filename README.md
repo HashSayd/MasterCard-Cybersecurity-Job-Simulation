@@ -10,3 +10,5 @@ I just completed Mastercard's Cybersecurity on @[Forage](urn:li:organization:685
    teams
 
 Check out the simulation here: https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye
+
+<img width="585" alt="Screenshot 2025-04-23 at 3 34 29 pm" src="https://github.com/user-attachments/assets/91a0324e-0143-48cc-b882-b3821c58b8a0" />
